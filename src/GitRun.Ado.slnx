@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="GitRun.AzureDevOps/GitRun.AzureDevOps.csproj" />
+  <Project Path="GitRun.Cli/GitRun.Cli.csproj" />
+  <Project Path="GitRun.Config/GitRun.Config.csproj" />
+  <Project Path="GitRun.Core/GitRun.Core.csproj" />
+  <Project Path="GitRun.Git/GitRun.Git.csproj" />
+</Solution>
